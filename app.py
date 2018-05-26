@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from data import Articles
+from flask_sqlalchemy
 
 app = Flask(__name__)
 
