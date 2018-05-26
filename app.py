@@ -19,7 +19,7 @@ def articles():
 
 @app.route('/article/<string:id>/')
 def article(id):
-    return render_template('articles.html', id=id)
+    return render_template('article.html', id=id)
 
 
 if __name__ == '__main__':
