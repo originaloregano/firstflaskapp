@@ -1,5 +1,8 @@
 # firstflaskapp
 
+Before view:
+* Make sure you have python and flask installed: http://www1.cmc.edu/pages/faculty/alee/cs40/penv/installFlaskOnMac.html
+
 To view:
 
 * Clone repo to Desktop
